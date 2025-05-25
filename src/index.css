@@ -1,0 +1,19 @@
+/*
+.color1 { #d9ceb2 };
+.color2 { #948c75 };
+.color3 { #d5ded9 };
+.color4 { #7a6a53 };
+.color5 { #99b2b7 };
+*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  min-height: 100vh;
+  width: 100vh;
+  background: linear-gradient(180deg , #948c75 0%,  #d9ceb2 100%);
+}
